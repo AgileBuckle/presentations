@@ -10,3 +10,8 @@ unsafe = true
 baseName = "index"
 mediaType = "text/html"
 isHTML = true
+
+relativeURLs = true
+uglyURLs = true
+canonifyURLs = false
+
