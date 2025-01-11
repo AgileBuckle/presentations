@@ -20,9 +20,7 @@ transition = "convex"
 - This is a slide in a Hugo Reveal.js presentation.
 - Hugo makes site generation fast and modular.
 
-<img src="/Untitled.png" alt="My Logo" style="width: 40%">
-
-
+<img src="/Untitled.png" alt="My Logo" style="border: none; box-shadow: none;">
 
 ---
 
