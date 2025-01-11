@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "http://slides.agilebuckle.com"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Slides"
 theme = "reveal-hugo"
 
 [markup.goldmark.renderer]
